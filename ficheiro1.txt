@@ -1,3 +1,6 @@
 primeiro ficheiro, segunda alteração local
 alteração feita no repositorio local
 alteração feita no repositorio remoto, segunda alteracao remota
+Adicionar tag
+Adicionar 2a tag
+Commit pull request
